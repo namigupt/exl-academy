@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p171117-e1845435.adobeaemcloud.com/bin/franklin.delivery/namigupt/exl-academy/main"
-    type: "markup"
-    suffix: ".html"
